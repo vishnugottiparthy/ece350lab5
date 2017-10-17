@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Oct 17 18:04:52 2017
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Lite Edition
+Revision Name : dac
+Top-level Entity Name : dac
+Family : Cyclone IV E
+Total logic elements : 78
+    Total combinational functions : 78
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 24
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
